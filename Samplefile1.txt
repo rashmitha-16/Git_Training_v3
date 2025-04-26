@@ -7,3 +7,4 @@ Modification in File 1
 
 this is comparison
 
+This is an example of git1 stash
